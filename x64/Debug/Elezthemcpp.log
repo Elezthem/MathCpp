@@ -1,0 +1,8 @@
+﻿  main.cpp
+C:\Users\hendr\source\repos\Elezthemcpp\Elezthemcpp\main.cpp(19,17): warning C4305: аргумент: усечение из "int" в "const _Elem"
+          with
+          [
+              _Elem=char
+          ]
+C:\Users\hendr\source\repos\Elezthemcpp\Elezthemcpp\main.cpp(19,17): warning C4309: аргумент: усечение константного значения
+  Elezthemcpp.vcxproj -> C:\Users\hendr\source\repos\Elezthemcpp\x64\Debug\Elezthemcpp.exe
